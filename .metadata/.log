@@ -280,3 +280,15 @@ java.util.concurrent.TimeoutException
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-10 17:08:34.534
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-10 17:08:34.535
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@21266c83[org.springframework.tooling.boot.ls:1.38.0.202208110704(id=560)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-10 17:08:34.535
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-10 17:08:36.857
+!MESSAGE Boot LS startup time from start to initialized: 2322ms
